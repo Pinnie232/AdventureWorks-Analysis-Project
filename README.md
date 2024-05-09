@@ -6,7 +6,7 @@ The dataset was gotten from [Kaggle](https://www.kaggle.com/datasets/ukveteran/a
 
 ### ER DIAGRAM
 After the datasets were cleaned, I created relationships with them to enable efficient querying. Instead of performing complex joins or searches across multiple tables, relationships enable direct navigation between related entities, improving query performance.
-![ER DIAGRAM](https://github.com/Pinnie232/AdventureWorks-Analysis-Project/blob/main/AdERDiagram.png)
+![ER DIAGRAM](https://github.com/Pinnie232/AdventureWorks-Analysis-Project/blob/main/Images/AdERDiagram.png)
 
 ## QUESTIONS
 + Total number of customers
@@ -24,7 +24,7 @@ After the datasets were cleaned, I created relationships with them to enable eff
 
 ## Vizualiztion
 ### Customers Dashboard
-![AdventureWorks Customers Dashboard](https://github.com/Pinnie232/AdventureWorks-Analysis-Project/blob/main/adcustomers.png)
+![AdventureWorks Customers Dashboard](https://github.com/Pinnie232/AdventureWorks-Analysis-Project/blob/main/Images/adcustomers.png)
 
 ### Sales Dashboard
-![AdventureWorks Sales Dashboard](https://github.com/Pinnie232/AdventureWorks-Analysis-Project/blob/main/adsales.png)
+![AdventureWorks Sales Dashboard](https://github.com/Pinnie232/AdventureWorks-Analysis-Project/blob/main/Images/adsales.png)
