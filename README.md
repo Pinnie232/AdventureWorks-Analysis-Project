@@ -9,7 +9,7 @@ After the datasets were cleaned, I created relationships with them to enable eff
 ![ER DIAGRAM](https://github.com/Pinnie232/AdventureWorks-Analysis-Project/blob/main/AdERDiagram.png)
 
 ## QUESTIONS
-+Total number of customers
++ Total number of customers
 + What is the average income
 + Total number of customers by location
 + Total customers by income category
