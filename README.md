@@ -1,5 +1,5 @@
 # AdventureWorks-Analysis-Project
-AdventureWorks sales analysis and vizualization using PowerBI. This projects consisted of various large datasets, cleaned and all connected together to analyze and gain insight. Uisng Power Query Editor to clean the datasets and Entity Relations Diagram to create relationships between the various database.
+AdventureWorks sales analysis and vizualization using PowerBI. This projects consisted of various large datasets, cleaned and all connected together to analyze and gain insight. Using Power Query Editor to clean the datasets and Entity Relations Diagram to create relationships between the various database.
 
 ## OVERVIEW
 The dataset was gotten from [Kaggle](https://www.kaggle.com/datasets/ukveteran/adventure-works)
